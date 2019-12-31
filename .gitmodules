@@ -1,0 +1,12 @@
+[submodule "javaci-sonar"]
+	path = javaci-sonar
+	url = https://github.com/witek1902/javaci-sonar
+[submodule "javaci-jenkins"]
+	path = javaci-jenkins
+	url = https://github.com/witek1902/javaci-jenkins
+[submodule "javaci-artifactory"]
+	path = javaci-artifactory
+	url = https://github.com/witek1902/javaci-artifactory
+[submodule "javaci-mysql"]
+	path = javaci-mysql
+	url = https://github.com/witek1902/javaci-mysql
